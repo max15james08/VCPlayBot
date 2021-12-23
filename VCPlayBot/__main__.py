@@ -1,7 +1,7 @@
 import requests
 from pyrogram import Client as Bot
 
-from VCPlayBot.config import API_HASH
+from VCPlayBot.config import cad379d4e6da3e215a41c4312c2d8346
 from VCPlayBot.config import API_ID
 from VCPlayBot.config import BG_IMAGE
 from VCPlayBot.config import BOT_TOKEN
